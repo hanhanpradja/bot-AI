@@ -1,0 +1,4 @@
+0 Motherboard
+1 CPU (Central Prosessing Unit)
+2 RAM (Random Access Memory)
+3 GPU (Graphics Processing Unit)
